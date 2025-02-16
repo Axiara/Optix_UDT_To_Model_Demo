@@ -1,0 +1,49 @@
+Name: DataTypes
+Type: FolderType
+Children:
+- Class: DataType
+  Name: RecipesUDT
+  Id: g=146258216a0011730d1fb082e833c4a0
+  Supertype: Structure
+  StructDefinition: 
+   {
+    "Name": "RecipesUDT",
+    "DataType": {
+     "IdType": 2,
+     "Id": "146258216a0011730d1fb082e833c4a0",
+     "Namespace": 7
+    },
+    "Fields": [{
+      "Name": "Name",
+      "DataType": {
+       "Id": 12
+      }
+     },{
+      "Name": "Ingredient1",
+      "DataType": {
+       "Id": 6
+      }
+     },{
+      "Name": "Ingredient2",
+      "DataType": {
+       "Id": 12
+      }
+     },{
+      "Name": "Ingredient3",
+      "DataType": {
+       "Id": 10
+      }
+     },{
+      "Name": "Ingredient4",
+      "DataType": {
+       "Id": 6
+      }
+     }]
+   }
+  DisplayName: {"LocaleId":"","Text":"RecipesUDT"}
+  Children:
+  - Name: ns=0;Default Binary
+    Type: DataTypeEncodingType
+    ModellingRule: None
+    DisplayName: {"LocaleId":"","Text":"Default Binary"}
+    ReferenceType: HasEncoding

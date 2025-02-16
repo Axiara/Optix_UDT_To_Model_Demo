@@ -1,0 +1,49 @@
+Name: VariableTypes
+Type: FolderType
+Children:
+- Name: RecipesUDT
+  Id: g=65f640c6699e73d9938493c8784dd52c
+  Supertype: TagStructure
+  DataType: RecipesUDT
+  ValueRank: Any
+  Children:
+  - Name: Name
+    Type: RAEtherNetIPTag
+    DataType: String
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Name"
+  - Name: Ingredient1
+    Type: RAEtherNetIPTag
+    DataType: Int32
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Ingredient1"
+  - Name: Ingredient2
+    Type: RAEtherNetIPTag
+    DataType: String
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Ingredient2"
+  - Name: Ingredient3
+    Type: RAEtherNetIPTag
+    DataType: Float
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Ingredient3"
+  - Name: Ingredient4
+    Type: RAEtherNetIPTag
+    DataType: Int32
+    Children:
+    - Name: SymbolName
+      Type: BaseDataVariableType
+      DataType: String
+      Value: "Ingredient4"

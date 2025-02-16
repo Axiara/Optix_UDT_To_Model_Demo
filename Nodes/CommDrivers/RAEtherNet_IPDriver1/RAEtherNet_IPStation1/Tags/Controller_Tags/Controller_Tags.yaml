@@ -1,0 +1,890 @@
+Name: Controller Tags
+Type: FolderType
+Children:
+- Name: Recipes
+  Id: g=234fe9edd68d9575c508da789a449a73
+  Type: RecipesUDT
+  DataType: RecipesUDT
+  ValueRank: OneDimension
+  ArrayDimensions: [20]
+  Children:
+  - Name: 0
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[0].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[0].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[0].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[0].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[0].Ingredient4"
+  - Name: 1
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[1].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[1].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[1].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[1].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[1].Ingredient4"
+  - Name: 2
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[2].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[2].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[2].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[2].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[2].Ingredient4"
+  - Name: 3
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[3].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[3].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[3].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[3].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[3].Ingredient4"
+  - Name: 4
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[4].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[4].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[4].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[4].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[4].Ingredient4"
+  - Name: 5
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[5].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[5].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[5].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[5].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[5].Ingredient4"
+  - Name: 6
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[6].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[6].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[6].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[6].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[6].Ingredient4"
+  - Name: 7
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[7].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[7].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[7].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[7].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[7].Ingredient4"
+  - Name: 8
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[8].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[8].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[8].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[8].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[8].Ingredient4"
+  - Name: 9
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[9].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[9].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[9].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[9].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[9].Ingredient4"
+  - Name: 10
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[10].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[10].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[10].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[10].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[10].Ingredient4"
+  - Name: 11
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[11].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[11].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[11].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[11].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[11].Ingredient4"
+  - Name: 12
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[12].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[12].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[12].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[12].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[12].Ingredient4"
+  - Name: 13
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[13].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[13].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[13].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[13].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[13].Ingredient4"
+  - Name: 14
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[14].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[14].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[14].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[14].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[14].Ingredient4"
+  - Name: 15
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[15].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[15].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[15].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[15].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[15].Ingredient4"
+  - Name: 16
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[16].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[16].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[16].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[16].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[16].Ingredient4"
+  - Name: 17
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[17].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[17].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[17].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[17].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[17].Ingredient4"
+  - Name: 18
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[18].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[18].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[18].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[18].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[18].Ingredient4"
+  - Name: 19
+    Type: RecipesUDT
+    DataType: RecipesUDT
+    Children:
+    - Name: Name
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[19].Name"
+    - Name: Ingredient1
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[19].Ingredient1"
+    - Name: Ingredient2
+      Type: RAEtherNetIPTag
+      DataType: String
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[19].Ingredient2"
+    - Name: Ingredient3
+      Type: RAEtherNetIPTag
+      DataType: Float
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[19].Ingredient3"
+    - Name: Ingredient4
+      Type: RAEtherNetIPTag
+      DataType: Int32
+      Children:
+      - Name: SymbolName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: "Recipes[19].Ingredient4"

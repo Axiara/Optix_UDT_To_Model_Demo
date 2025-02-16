@@ -1,0 +1,12 @@
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\bin\PLC_UDT_Array_Demo.deps.json
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\bin\PLC_UDT_Array_Demo.dll
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\bin\PLC_UDT_Array_Demo.pdb
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\obj\Debug\PLC_UDT_Array_Demo.csproj.AssemblyReference.cache
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\obj\Debug\PLC_UDT_Array_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\obj\Debug\PLC_UDT_Array_Demo.AssemblyInfoInputs.cache
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\obj\Debug\PLC_UDT_Array_Demo.AssemblyInfo.cs
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\obj\Debug\PLC_UDT_Array_Demo.csproj.CoreCompileInputs.cache
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\obj\Debug\PLC_UDT_Array_Demo.dll
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\obj\Debug\refint\PLC_UDT_Array_Demo.dll
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\obj\Debug\PLC_UDT_Array_Demo.pdb
+C:\Users\mfox\OneDrive - CRG Automation\Documents\Optix Samples\PLC_UDT_Array_Demo\ProjectFiles\NetSolution\obj\Debug\ref\PLC_UDT_Array_Demo.dll
