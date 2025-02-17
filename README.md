@@ -7,6 +7,7 @@ Demo using a PLC UDT as a Model For a Datagrid / Listbox / Combo Box in FT Optix
 
 **To Use**
 -Add the UDT Model Builder to the Data Grid
+
 ![image](https://github.com/user-attachments/assets/11d6182b-dc4c-47e2-acc7-59fde3c26de1)
 
 
