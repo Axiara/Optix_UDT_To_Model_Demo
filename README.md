@@ -5,7 +5,7 @@ Demo using a PLC UDT as a Model For a Datagrid / Listbox / Combo Box in FT Optix
   
   -The lightweight Netlogic script in this example converts the UDT array into a object model that can be used in Optix.
   
-  -Models generated directly reference the the PLC tags with node pointers, they don't copy the values. So updates to variables are fast and are bidirectional.
+  -The Model generated directly references the PLC tag array with node pointers, they don't just copy the values. So updates to variables are fast and are bidirectional.
 
 
 **To Use**
