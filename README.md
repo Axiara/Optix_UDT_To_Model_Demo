@@ -1,7 +1,7 @@
 # Optix_UDT_To_Model_Demo
 Demo using a PLC UDT as a Model For a Datagrid / Listbox / Combo Box in FT Optix
 
-  -The Modal property of Data Grids, List Boxes, and Comboboxes do not directly support a UDT array from the PLC.
+  -The Model property of Data Grids, List Boxes, and Comboboxes do not directly support a UDT array from the PLC.
   
   -The lightweight Netlogic script in this example converts the UDT array into a object model that can be used in Optix.
   
